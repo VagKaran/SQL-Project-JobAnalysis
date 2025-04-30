@@ -111,7 +111,7 @@ ORDER BY
 -  Cloud platforms like Snowflake and Azure, along with libraries like Pandas, also appear frequently—emphasizing the growing need for cloud and data engineering knowledge.
 
 ![Top Skills for high-paying jobs](assets/2.top_skills_chart_sql_on_top.png)
-
+*This chart shows top skills for high-paying Data Analyst roles.*
 ### 3. In-Demand Skills for Data Analysts
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
@@ -146,6 +146,7 @@ LIMIT 5;
 | Python    | 4,330        |
 | Tableau   | 3,745        |
 | Power BI  | 2,609        |
+
 *Most In-Demand Skills for Data Analysts.*
 
 ### 4. Skills Based on Salary
@@ -185,6 +186,7 @@ ORDER BY
 | Couchbase  | $160,515             |
 | Watson     | $160,515             |
 | DataRobot  | $155,486             |
+
 *These are the highest-paying technical skills based on job listings, highlighting the value of advanced tools and platforms in securing top-tier data roles.*
 
 ### 5. Most Optimal Skills to Learn
@@ -254,6 +256,7 @@ LIMIT 10;
 | Python  | 236           | $101,397.22          |
 | Tableau | 230           | $99,287.65           |
 | R       | 148           | $100,498.77          |
+
 *Optimal Skills to Learn (High Demand + High Salary).*
 
 # What I Learned
